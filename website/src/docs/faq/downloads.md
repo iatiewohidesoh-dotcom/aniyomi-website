@@ -1,3 +1,5 @@
+Mangas app
+Animes
 ---
 title: Downloads
 titleTemplate: Frequently Asked Questions
